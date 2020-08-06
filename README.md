@@ -12,7 +12,7 @@
   #### 긍정적인 마인드로 삶을 살아가고 있으며, 공동체 생활을 선호합니다
   [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link=https://jindevt.github.io/resume/)](https://jindevt.github.io/resume/) 
 [![Blog Badge](https://img.shields.io/badge/-Tistory--Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://jindev-t.tistory.com/)](https://jindev-t.tistory.com/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellojeongmin@gmail.com)](mailto:hellojeongmin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsxo9302@gmail.com)](mailto:wlsxo9302@gmail.com)
 </div>
   
 
