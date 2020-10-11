@@ -7,7 +7,6 @@
   ### 만나뵙게 되어 반갑습니다. 👋
   #### 끝임없이 도전하고 변화를 통해 성장하는 프론트개발자 김진태 입니다.
   
-  [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link=https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301)](https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301) 
 [![Blog Badge](https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://jindev-t.tistory.com/)](https://jindev-t.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsxo9302@gmail.com)](mailto:wlsxo9302@gmail.com)
 </div>
