@@ -11,7 +11,9 @@
   #### 사람들과 커뮤니케이션 하는 것을 좋아하며 이를 통해 함께 성장하기를 원합니다.
   #### 긍정적인 마인드로 삶을 살아가고 있으며, 공동체 생활을 선호합니다
 
-  [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link=https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301)](https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301) 
+ [![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=Github&link=https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301)](https://www.notion.so/Kim-Jintae-ba75129e96e340cd90c53667ca7d1301) 
+[![Blog Badge](https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://jindev-t.tistory.com/)](https://jindev-t.tistory.com/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsxo9302@gmail.com)](mailto:wlsxo9302@gmail.com)
 </div>
   
 
